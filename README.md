@@ -7,7 +7,7 @@ In this work, we propose beam searching algorithms with reduced complexities. Ho
 This repository contains three folders. In the Generator folder, random variables are created and logged in Matlab language. In the BeamSelection folder, joint design of analog beam selection and digital beamforming solutions are provided in Matlab language. In AI folder, SML algorithms are provided in Python language. The SML algorithms are trained by the outputs obtained from the joint design proposals provided in the BeamSelection folder. In AI folder, the sum-rate results based on the output decisions of SML algorithms are evaluated in Matlab language. Hence, comparisons between the sum-rate results of SML and conventional algorithms can be made. For further details, please see the ReadMe_v01.docx file.
 # Introduction
 The numerical results can be obtained in 3 steps. First, joint design proposals in the BeamSelection folder are executed on Matlab. To obtain the SML results, as the next step, SML algorithms in AI folder are executed on Python. As the final step, codes for sum-rate evaluations are executed on Matlab. For practical purposes, multiple videos that provide detailed usages of the codes are provided at a Dropbox address (click for the [short](https://tinyurl.com/beamselection)/[long](https://www.dropbox.com/sh/07dk4iatc1ahjps/AAAeSaKjjvgOxZ0W6tPh8RMFa?dl=0) URL).
-Update: The videos are combined and uploaded as a single file on [YouTube](https://www.youtube.com/watch?v=tArW7X8EYIw&t=31s)  
+Update: The videos are combined and uploaded as a single file on [YouTube](https://www.youtube.com/watch?v=tArW7X8EYIw&t=31s).  
 # Simulation Environment
 For the simulations, 
 HW: Windows 10 desktop PC is used. 
